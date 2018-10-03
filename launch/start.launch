@@ -1,0 +1,8 @@
+<launch>
+
+    <arg name="dataset_path" default="default.json" />
+
+	<node name="snips_nlu_ros" pkg="snips_nlu_ros" type="snips_nlu_node.py" output="screen">
+        <param name='dataset' value="$(arg dataset_path)" type="string" />
+    </node>
+</launch>

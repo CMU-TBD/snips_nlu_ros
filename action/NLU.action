@@ -1,0 +1,9 @@
+#Define the goal
+string text 
+---
+#Define the result
+
+string intentName
+float32 probability
+string slot_json_string #A stringified JSON string
+---

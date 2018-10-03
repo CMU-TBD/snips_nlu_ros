@@ -1,0 +1,12 @@
+conference room
+main hall
+ohio room
+pennsylvania room
+virginia room
+men's bathroom
+women's bathroom
+cafeteria
+lounge 
+lobby
+staircase
+office
