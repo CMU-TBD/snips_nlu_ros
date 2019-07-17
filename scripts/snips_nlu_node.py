@@ -44,7 +44,7 @@ class SnipsNLUWrapper():
         parse_result = self._nlu_engine.parse(text)
         nlu_result = NLUResult()
         if parse_result['intent'] is not None:
-            nlu_result.intentName = parse_result['intent']['intentName'] 
+            nlu_result.intentName = str(parse_result['intent']['intentName'])
             nlu_result.probability = parse_result['intent']['probability'] 
         else:
             nlu_result.intentName = ""

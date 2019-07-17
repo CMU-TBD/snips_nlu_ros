@@ -21,7 +21,7 @@ class SnipsNLU():
         """
 
         goal = NLUGoal()
-        goal.text = text
+        goal.text = str(text)
         self._nlu_client.send_goal_and_wait(goal)
         result = self._nlu_client.get_result()
 
