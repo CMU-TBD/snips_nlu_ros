@@ -41,10 +41,10 @@ class SnipsNLUWrapper():
         # self._nlu_server.start()
 
         # start the subscriber
-        self._nlu_subscriber = rospy.Subscriber("utterance", Utterance, self._parse_callback)
+        self._nlu_subscriber = rospy.Subscriber("/utterance", Utterance, self._parse_callback)
 
         # create the publisher
-        self._nlu_publisher = rospy.Publisher("intent", Intent, queue_size=10)
+        self._nlu_publisher = rospy.Publisher("/intent", Intent, queue_size=10)
         
 
         rospy.loginfo('Snips NLU Started')
@@ -54,7 +54,7 @@ class SnipsNLUWrapper():
         parse_result = self._nlu_engine.parse(msg.text)
         intent = Intent()
         intent.header = msg.header
-        print(parse_result)
+        # print(parse_result)
         if parse_result['intent'] is not None:
             intent.intentName = str(parse_result['intent']['intentName'])
             intent.probability = parse_result['intent']['probability'] 
