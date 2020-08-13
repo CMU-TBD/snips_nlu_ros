@@ -50,7 +50,7 @@ class SnipsNLUWrapper():
         rospy.loginfo('Snips NLU Started')
 
     def  _parse_callback(self, msg):
-        print(msg.text)
+        # print(msg.text)
         parse_result = self._nlu_engine.parse(msg.text)
         intent = Intent()
         intent.header = msg.header
@@ -61,7 +61,7 @@ class SnipsNLUWrapper():
         else:
             intent.intentName = ""
         intent.slot_json_string = json.dumps(parse_result["slots"])
-        print(intent)
+        # print(intent)
         # self._nlu_server.set_succeeded(nlu_result)
         self._nlu_publisher.publish(intent)
 
