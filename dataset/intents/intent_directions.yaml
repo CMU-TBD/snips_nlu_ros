@@ -1,0 +1,13 @@
+# get directions to places on campus
+---
+type: intent
+name: getDirections
+utterances:
+  - "how do I get to [campusLocation:destination](abp)?"
+  - "directions to [campusLocation:destination](elevator)."
+  - "directions to [campusLocation:destination](baker), please?"
+  - "may I get the instructions to [campusLocation:destination](scott hall)?"
+  - "i want to go to [campusLocation:destination](B524)."
+  - "can you help me find the [campusLocation:destination](office 4527)?"
+  - "[campusLocation:destination](elevator)"
+  - "get directions to [campusLocation:destination](abp)"

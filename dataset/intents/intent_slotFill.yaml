@@ -1,0 +1,58 @@
+# location (city) slot filling
+# slot filling intents for a fake dst thing
+---
+type: intent
+name: locationSlotFill
+utterances:
+  - "[location:location](pittsburgh)"
+  - "in [location:location](new york)"
+  - "[location:location](beijing)"
+  - "[location:location](dc)"
+  - "[location:location](oakland)"
+
+# date slot filling
+---
+type: intent
+name: dateSlotFill
+utterances:
+  - "[date:snips/date](tomorrow)"
+  - "[date:snips/date](in three days)"
+
+# bus slot filling
+---
+type: intent
+name: busSlotFill
+utterances:
+  - "bus [bus:buses](61a)"
+  - "the bus going to [bus:buses](east hills)"
+  - "the [bus:buses](penn) bus"
+  - "[bus:buses](88)"
+  - "bus [bound:bound](inbound) bus [bus:buses](61a)"
+  - "the bus going to [bus:buses](east hills)"
+  - "the [bound:bound](inbound) [bus:buses](penn) bus"
+  - "[bound:bound](inbound) bus [bus:buses](88)"
+  - "[bound:bound](inbound) [bus:buses](88)"
+
+# bound slot filling
+---
+type: intent
+name: boundSlotFill
+utterances:
+  - "the [bound:bound](inbound) bus"
+  - "[bound:bound](inbound)"
+  - "[bound:bound](outbound)"
+
+# campus location slot filling
+---
+type: intent
+name: campusLocationSlotFill
+utterances:
+  - "[campusLocation:campusLocation](6700)"
+  - "the [campusLocation:campusLocation](Elevator)"
+
+# people slot filling
+---
+type: intent
+name: personSlotFill
+utterances:
+  - "[person:person]"

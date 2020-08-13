@@ -1,0 +1,24 @@
+# Ask for bus intent
+---
+type: intent
+name: askBus
+utterances:
+  - "when does the bus come?"
+  - "when is the bus coming?"
+  - "when does the bus arrive?"
+  - "how long until the bus comes?"
+  - "bus schedule"
+  - "bus"
+  - "when does the [bus:buses](61A) come?"
+  - "when is the [bus:buses](53L) coming?"
+  - "when does the [bus:buses](1) arrive?"
+  - "when does bus [bus:buses](61C) arrive"
+  - "when does the next bus to [bus:buses](east hills) arrive"
+  - "how long until the [bus:buses] comes?"
+
+  - "when does the [bound:bound](inbound) bus [bus:buses](61A) come?"
+  - "when is the [bound:bound](outbound) [bus:buses](53L) coming?"
+  - "when does the [bound:bound](inbound) bus [bus:buses](1) arrive?"
+  - "when does bus [bound:bound](outbound) [bus:buses](61C) arrive"
+  - "when does the next bus to [bus:buses](east hills) arrive"
+  - "how long until the [bound:bound](inbound) [bus:buses] comes?"

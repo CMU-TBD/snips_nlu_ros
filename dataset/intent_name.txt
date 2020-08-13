@@ -1,3 +1,0 @@
-My name is [name:name](Sam).
-[name:name](John).
-It's [name:name](Jim).
