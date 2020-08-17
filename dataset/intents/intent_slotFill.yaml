@@ -49,6 +49,8 @@ name: campusLocationSlotFill
 utterances:
   - "[campusLocation:campusLocation](6700)"
   - "the [campusLocation:campusLocation](Elevator)"
+  - "room [campusLocation:campusLocation](6700)"
+  - "office [campusLocation:campusLocation](6700)"
 
 # people slot filling
 ---
