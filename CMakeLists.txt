@@ -12,6 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   actionlib
   genmsg
+  message_generation
 )
 
 ## System dependencies are found with CMake's conventions
@@ -54,6 +55,11 @@ catkin_python_setup()
 #   Message2.msg
 # )
 
+add_message_files(
+  FILES
+  Intent.msg
+)
+
 ## Generate services in the 'srv' folder
 # add_service_files(
 #   FILES
@@ -62,10 +68,10 @@ catkin_python_setup()
 # )
 
 ## Generate actions in the 'action' folder
-add_action_files(
-  FILES
-  NLU.action
-)
+# add_action_files(
+#   FILES
+#   NLU.action
+# )
 
 ## Generate added messages and services with any dependencies listed here
 generate_messages(

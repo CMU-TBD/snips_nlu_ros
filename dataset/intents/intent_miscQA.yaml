@@ -1,0 +1,21 @@
+# MISC question intents
+---
+type: intent
+name: askTime
+utterances:
+  - what is the time?
+  - what time is it?
+  - time
+  - give me the time.
+  - tell me the time.
+
+---
+type: intent
+name: askFunction
+utterances:
+  - what can you do?
+  - what can you help me with?
+  - what can i ask you to do?
+  - what is your functions?
+  - what are you programmed to do?
+  - what do you do?

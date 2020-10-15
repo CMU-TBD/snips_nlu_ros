@@ -1,0 +1,14 @@
+# get information about a person
+---
+type: intent
+name: getPersonPhone
+utterances:
+  - what is the phone number for [person:person](prithu pareek)?
+  - what's [person:person](prithu pareek)'s phone number?
+
+---
+type: intent
+name: getPersonDepartment
+utterances:
+  - what depertment is [person:person](aaron steinfeld) in?
+  - what department does [person:person](aaron steinfeld) belong to?

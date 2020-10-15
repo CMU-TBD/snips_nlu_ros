@@ -1,0 +1,124 @@
+# list of people
+---
+type: entity
+name: person
+automatically_extensible: no
+values:
+  - ["aaron steinfeld", "aaron", "doctor steinfeld", "professor steinfeld"]
+  - ["abhinav gupta", "abhinav", "doctor gupta", "professor gupta"]
+  - ["adam perer", "adam", "doctor perer", "professor perer"]
+  - ["albert corbett", "albert", "doctor corbett", "professor corbett"]
+  - ["alonzo kelly", "alonzo", "doctor kelly", "professor kelly"]
+  - ["aniket kittur", "aniket", "doctor kittur", "professor kittur"]
+  - ["artur dubrawski", "artur", "doctor dubrawski", "professor dubrawski"]
+  - ["brad myers", "brad", "doctor myers", "professor myers"]
+  - ["bruce mclaren", "bruce", "doctor mclaren", "professor mclaren"]
+  - ["cameron riviere", "cameron", "doctor riviere", "professor riviere"]
+  - ["carolyn rose", "carolyn", "doctor rose", "professor rose"]
+  - ["changliu liu", "changliu", "doctor liu", "professor liu"]
+  - ["chinmay kulkarni", "chinmay", "doctor kulkarni", "professor kulkarni"]
+  - ["chris atkeson", "chris", "doctor atkeson", "professor atkeson"]
+  - ["daniel siewiorek", "daniel", "doctor siewiorek", "professor siewiorek"]
+  - ["daniel siewiorek", "daniel", "doctor siewiorek", "professor siewiorek"]
+  - ["david held", "david", "doctor held", "professor held"]
+  - [
+      "david wettergreen",
+      "david",
+      "doctor wettergreen",
+      "professor wettergreen",
+    ]
+  - ["deepak pathak", "deepak", "doctor pathak", "professor pathak"]
+  - ["deva kannan ramanan", "deva", "doctor ramanan", "professor ramanan"]
+  - ["drew bagnell", "drew", "doctor bagnell", "professor bagnell"]
+  - ["fernando frade", "fernando", "doctor frade", "professor frade"]
+  - ["geoff kaufman", "geoff", "doctor kaufman", "professor kaufman"]
+  - ["haiyi zhu", "haiyi", "doctor zhu", "professor zhu"]
+  - ["hartmut geyer", "hartmut", "doctor geyer", "professor geyer"]
+  - ["henny admoni", "henny", "doctor admoni", "professor admoni"]
+  - ["hirokazu shirado", "hirokazu", "doctor shirado", "professor shirado"]
+  - ["howard wactlar", "howard", "doctor wactlar", "professor wactlar"]
+  - ["howie choset", "howie", "doctor choset", "professor choset"]
+  - ["illah nourbakhsh", "illah", "doctor nourbakhsh", "professor nourbakhsh"]
+  - [
+      "ioannis gkioulekas",
+      "ioannis",
+      "doctor gkioulekas",
+      "professor gkioulekas",
+    ]
+  - ["jack mostow", "jack", "doctor mostow", "professor mostow"]
+  - ["james mccann", "james", "doctor mccann", "professor mccann"]
+  - ["james morris", "james", "doctor morris", "professor morris"]
+  - ["jason hong", "jason", "doctor hong", "professor hong"]
+  - ["jeff schneider", "jeff", "doctor schneider", "professor schneider"]
+  - ["jeffrey bigham", "jeffrey", "doctor bigham", "professor bigham"]
+  - ["jessica hammer", "jessica", "doctor hammer", "professor hammer"]
+  - ["jessica hodgins", "jessica", "doctor hodgins", "professor hodgins"]
+  - ["jodi forlizzi", "jodi", "doctor forlizzi", "professor forlizzi"]
+  - ["john zimmerman", "john", "doctor zimmerman", "professor zimmerman"]
+  - ["jun yan zhu", "jun", "doctor yan", "professor yan"]
+  - ["karen kornblum", "karen", "doctor kornblum", "professor kornblum"]
+  - ["katia sycara", "katia", "doctor sycara", "professor sycara"]
+  - ["keenan crane", "keenan", "doctor crane", "professor crane"]
+  - ["ken holstein", "ken", "doctor holstein", "professor holstein"]
+  - ["ken koedinger", "ken", "doctor koedinger", "professor koedinger"]
+  - ["kris kitani", "kris", "doctor kitani", "professor kitani"]
+  - ["laura dabbish", "laura", "doctor dabbish", "professor dabbish"]
+  - ["lee weiss", "lee", "doctor weiss", "professor weiss"]
+  - ["lining yao", "lining", "doctor yao", "professor yao"]
+  - ["marti louw", "marti", "doctor louw", "professor louw"]
+  - ["martial hebert", "martial", "doctor hebert", "professor hebert"]
+  - ["matthew mason", "matthew", "doctor mason", "professor mason"]
+  - ["matthew o’toole", "matthew", "doctor o’toole", "professor o’toole"]
+  - ["maxim likhachev", "maxim", "doctor likhachev", "professor likhachev"]
+  - ["mel siegel", "mel", "doctor siegel", "professor siegel"]
+  - ["melisa martinez", "melisa", "doctor martinez", "professor martinez"]
+  - ["michael erdmann", "michael", "doctor erdmann", "professor erdmann"]
+  - ["michael kaess", "michael", "doctor kaess", "professor kaess"]
+  - ["motahhare eslami", "motahhare", "doctor eslami", "professor eslami"]
+  - ["nancy pollard", "nancy", "doctor pollard", "professor pollard"]
+  - ["nathan michael", "nathan", "doctor michael", "professor michael"]
+  - ["nikolas martelaro", "nikolas", "doctor martelaro", "professor martelaro"]
+  - ["oliver kroemer", "oliver", "doctor kroemer", "professor kroemer"]
+  - [
+      "patrick carrington",
+      "patrick",
+      "doctor carrington",
+      "professor carrington",
+    ]
+  - ["paul pangaro", "paul", "doctor pangaro", "professor pangaro"]
+  - ["raelin musuraca", "raelin", "doctor musuraca", "professor musuraca"]
+  - ["raj reddy", "raj", "doctor reddy", "professor reddy"]
+  - ["ralph hollis", "ralph", "doctor hollis", "professor hollis"]
+  - ["reid simmons", "reid", "doctor simmons", "professor simmons"]
+  - ["robert kraut", "robert", "doctor kraut", "professor kraut"]
+  - ["roberta klatzky", "roberta", "doctor klatzky", "professor klatzky"]
+  - ["sanjiv singh", "sanjiv", "doctor singh", "professor singh"]
+  - ["sara keisler", "sara", "doctor keisler", "professor keisler"]
+  - ["scott hudson", "scott", "doctor hudson", "professor hudson"]
+  - ["sebastian scherer", "sebastian", "doctor scherer", "professor scherer"]
+  - ["shubham tulsiani", "shubham", "doctor tulsiani", "professor tulsiani"]
+  - ["simon lucey", "simon", "doctor lucey", "professor lucey"]
+  - ["skip shelly", "skip", "doctor shelly", "professor shelly"]
+  - [
+      "srinivasa narasimhan",
+      "srinivasa",
+      "doctor narasimhan",
+      "professor narasimhan",
+    ]
+  - ["stephen smith", "stephen", "doctor smith", "professor smith"]
+  - ["takeo kanade", "takeo", "doctor kanade", "professor kanade"]
+  - ["tom mitchell", "tom", "doctor mitchell", "professor mitchell"]
+  - ["vincent aleven", "vincent", "doctor aleven", "professor aleven"]
+  - ["wenzhen yuan", "wenzhen", "doctor yuan", "professor yuan"]
+  - ["william whittaker", "william", "doctor whittaker", "professor whittaker"]
+  - [
+      "zachary manchester",
+      "zachary",
+      "doctor manchester",
+      "professor manchester",
+    ]
+  - ["zeynep temel", "zeynep", "doctor temel", "professor temel"]
+  - ["prithu pareek", "prithu"]
+  - ["fern limprayoon", "fern"]
+  - ["zhi tan", "zhi"]
+  - ["clara wang", "clara"]

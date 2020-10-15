@@ -1,0 +1,30 @@
+# Yes/No Intents
+---
+type: intent
+name: "yes"
+utterances:
+  - "yes"
+  - yeah
+  - yep
+  - uh huh
+  - ok
+  - affirmative
+  - of course
+  - sure
+  - no problem
+  - sounds good
+  - go ahead
+  - great
+
+---
+type: intent
+name: "no"
+utterances:
+  - "no"
+  - nope
+  - nu uh
+  - no way
+  - negative
+  - not
+  - nah
+  - naw

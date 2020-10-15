@@ -1,0 +1,4 @@
+Header header
+string intentName
+float32 probability
+string slot_json_string

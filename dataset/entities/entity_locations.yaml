@@ -1,0 +1,1743 @@
+# City/State/Neighborhoods entities
+---
+type: entity
+name: location
+values:
+  - alabama
+  - alaska
+  - arizona
+  - arkansas
+  - california
+  - colorado
+  - connecticut
+  - delaware
+  - florida
+  - georgia
+  - hawaii
+  - idaho
+  - illinois
+  - indiana
+  - iowa
+  - kansas
+  - kentucky
+  - louisiana
+  - maine
+  - maryland
+  - massachusetts
+  - michigan
+  - minnesota
+  - mississippi
+  - missouri
+  - montana
+  - nebraska
+  - nevada
+  - new hampshire
+  - new jersey
+  - new mexico
+  - new york
+  - north carolina
+  - north dakota
+  - ohio
+  - oklahoma
+  - oregon
+  - pennsylvania
+  - rhode island
+  - south carolina
+  - south dakota
+  - tennessee
+  - texas
+  - utah
+  - vermont
+  - virginia
+  - washington
+  - west virginia
+  - wisconsin
+  - wyoming
+
+  - marysville
+  - perris
+  - cleveland
+  - worcester
+  - columbia
+  - waterbury
+  - eagan
+  - southfield
+  - lafayette
+  - boise city
+  - elkhart
+  - buena park
+  - marietta
+  - parker
+  - west palm beach
+  - salem
+  - aurora
+  - leesburg
+  - doral
+  - westminster
+  - lubbock
+  - overland park
+  - jackson
+  - gastonia
+  - daytona beach
+  - kansas city
+  - rancho palos verdes
+  - burnsville
+  - rowlett
+  - roswell
+  - montgomery
+  - logan
+  - woburn
+  - allentown
+  - mount pleasant
+  - columbus
+  - buffalo
+  - new berlin
+  - north richland hills
+  - lima
+  - sacramento
+  - fort smith
+  - east providence
+  - urbandale
+  - mount vernon
+  - lakewood
+  - henderson
+  - covina
+  - stamford
+  - bloomington
+  - kingsport
+  - spokane
+  - kennewick
+  - philadelphia
+  - bellingham
+  - visalia
+  - la crosse
+  - council bluffs
+  - north lauderdale
+  - dallas
+  - antioch
+  - sterling heights
+  - deerfield beach
+  - fishers
+  - cheyenne
+  - murrieta
+  - lenexa
+  - noblesville
+  - southaven
+  - chino
+  - gaithersburg
+  - fountain valley
+  - frederick
+  - greenville
+  - dekalb
+  - west allis
+  - thornton
+  - west des moines
+  - fall river
+  - tulare
+  - chula vista
+  - coral springs
+  - concord
+  - smyrna
+  - apopka
+  - grand forks
+  - lancaster
+  - naperville
+  - hollywood
+  - rogers
+  - new orleans
+  - lakewood
+  - oak lawn
+  - caldwell
+  - portland
+  - concord
+  - burien
+  - st charles
+  - waukesha
+  - flagstaff
+  - puyallup
+  - schenectady
+  - denver
+  - springfield
+  - campbell
+  - moreno valley
+  - kettering
+  - lincoln park
+  - lake havasu city
+  - north little rock
+  - reno
+  - littleton
+  - prescott
+  - dublin
+  - texarkana
+  - portland
+  - brooklyn park
+  - west haven
+  - el centro
+  - the colony
+  - flint
+  - pittsburg
+  - buckeye
+  - brea
+  - indio
+  - scottsdale
+  - columbus
+  - lancaster
+  - lincoln
+  - trenton
+  - boston
+  - glendora
+  - rochester
+  - florissant
+  - annapolis
+  - chapel hill
+  - lawrence
+  - calexico
+  - calumet city
+  - missoula
+  - clovis
+  - pearland
+  - gilbert
+  - wausau
+  - raleigh
+  - orange
+  - walnut creek
+  - bremerton
+  - porterville
+  - marana
+  - tallahassee
+  - conroe
+  - blacksburg
+  - san antonio
+  - hartford
+  - waterloo
+  - binghamton
+  - meridian
+  - fond du lac
+  - baytown
+  - cary
+  - weymouth town
+  - tulsa
+  - mission
+  - cuyahoga falls
+  - malden
+  - allen
+  - tucson
+  - franklin
+  - shakopee
+  - jacksonville
+  - atlantic city
+  - erie
+  - merced
+  - abilene
+  - yorba linda
+  - greenville
+  - huntersville
+  - st clair shores
+  - harrisburg
+  - ["san buenaventura", "ventura"]
+  - fremont
+  - pueblo
+  - chelsea
+  - belleville
+  - minneapolis
+  - bartlett
+  - wichita falls
+  - missouri city
+  - st louis
+  - pharr
+  - albuquerque
+  - athens-clarke county
+  - south jordan
+  - north las vegas
+  - pomona
+  - eastvale
+  - grove city
+  - lawrence
+  - midland
+  - oklahoma city
+  - oro valley
+  - mesa
+  - norwalk
+  - kentwood
+  - brookfield
+  - rockwall
+  - mishawaka
+  - tustin
+  - st cloud
+  - passaic
+  - escondido
+  - san bruno
+  - berkeley
+  - san clemente
+  - lawton
+  - eau claire
+  - maricopa
+  - desoto
+  - fort wayne
+  - shoreline
+  - medford
+  - la habra
+  - albany
+  - daly city
+  - taylor
+  - coon rapids
+  - san mateo
+  - orlando
+  - casper
+  - bedford
+  - wilmington
+  - pinellas park
+  - north miami beach
+  - kansas city
+  - fitchburg
+  - wheeling
+  - newton
+  - north miami
+  - norwich
+  - newark
+  - alexandria
+  - blaine
+  - harlingen
+  - lompoc
+  - denton
+  - galveston
+  - greenwood
+  - salinas
+  - miami gardens
+  - huntington
+  - laredo
+  - melbourne
+  - haltom city
+  - palm bay
+  - wilson
+  - bountiful
+  - ceres
+  - parma
+  - youngstown
+  - madison
+  - redlands
+  - cape girardeau
+  - nampa
+  - [washington dc, washington, dc]
+  - wheaton
+  - lancaster
+  - rialto
+  - fargo
+  - peoria
+  - omaha
+  - rancho santa margarita
+  - manhattan
+  - palm springs
+  - san diego
+  - santa rosa
+  - lowell
+  - broken arrow
+  - kent
+  - nashville
+  - hackensack
+  - broomfield
+  - durham
+  - wichita
+  - cathedral city
+  - lakeville
+  - elmhurst
+  - weslaco
+  - greenfield
+  - sunnyvale
+  - santa cruz
+  - kenosha
+  - state college
+  - mansfield
+  - quincy
+  - pompano beach
+  - san angelo
+  - bloomington
+  - tracy
+  - spartanburg
+  - nashua
+  - macon
+  - hempstead
+  - camden
+  - palm desert
+  - streamwood
+  - chesapeake
+  - dublin
+  - camarillo
+  - muskegon
+  - elizabeth
+  - anchorage
+  - minot
+  - davie
+  - mcallen
+  - mckinney
+  - killeen
+  - findlay
+  - oakland
+  - mountain view
+  - lake elsinore
+  - amarillo
+  - provo
+  - atlanta
+  - monterey park
+  - strongsville
+  - madera
+  - newport beach
+  - riverton
+  - yakima
+  - dayton
+  - gulfport
+  - long beach
+  - chico
+  - hattiesburg
+  - eugene
+  - colton
+  - montebello
+  - pleasanton
+  - everett
+  - hutchinson
+  - fairfield
+  - avondale
+  - euclid
+  - battle creek
+  - bloomington
+  - rock island
+  - beaverton
+  - kenner
+  - clovis
+  - troy
+  - milpitas
+  - des plaines
+  - placentia
+  - taunton
+  - montclair
+  - johnson city
+  - savannah
+  - warren
+  - vancouver
+  - sunrise
+  - muncie
+  - lehi
+  - [san francisco, sf]
+  - fontana
+  - frisco
+  - chino hills
+  - poway
+  - huber heights
+  - new brunswick
+  - norfolk
+  - hillsboro
+  - san jacinto
+  - pensacola
+  - hamilton
+  - florence
+  - san bernardino
+  - peachtree corners
+  - victorville
+  - gary
+  - casa grande
+  - morgan hill
+  - dubuque
+  - syracuse
+  - clarksville
+  - lakeland
+  - valley stream
+  - dover
+  - moorhead
+  - culver city
+  - palatine
+  - seattle
+  - covington
+  - elk grove
+  - shreveport
+  - ogden
+  - harrisonburg
+  - inglewood
+  - pasadena
+  - lawrence
+  - lake oswego
+  - petaluma
+  - springfield
+  - folsom
+  - prescott valley
+  - las cruces
+  - bozeman
+  - schaumburg
+  - warren
+  - st peters
+  - ames
+  - surprise
+  - richardson
+  - midland
+  - san marcos
+  - wilkes-barre
+  - appleton
+  - shawnee
+  - mentor
+  - livermore
+  - charlotte
+  - owensboro
+  - jupiter
+  - rohnert park
+  - chicago
+  - billings
+  - wauwatosa
+  - lombard
+  - new haven
+  - york
+  - knoxville
+  - elyria
+  - barnstable town
+  - murray
+  - alameda
+  - manteca
+  - napa
+  - aurora
+  - duluth
+  - roanoke
+  - bend
+  - apple valley
+  - waltham
+  - fort myers
+  - tampa
+  - upland
+  - danville
+  - beloit
+  - plantation
+  - colorado springs
+  - modesto
+  - grand rapids
+  - oak park
+  - sarasota
+  - jurupa valley
+  - bellflower
+  - boulder
+  - santa fe
+  - coachella
+  - marlborough
+  - riverside
+  - palmdale
+  - novato
+  - layton
+  - bolingbrook
+  - mission viejo
+  - glenview
+  - lincoln
+  - miramar
+  - el paso
+  - topeka
+  - rosemead
+  - keizer
+  - minnetonka
+  - akron
+  - edinburg
+  - rancho cucamonga
+  - north charleston
+  - louisville
+  - watsonville
+  - coconut creek
+  - bradenton
+  - carlsbad
+  - texas city
+  - redding
+  - wyoming
+  - lorain
+  - roy
+  - fort lauderdale
+  - warner robins
+  - clearwater
+  - cutler bay
+  - florence
+  - terre haute
+  - temple
+  - beavercreek
+  - sioux falls
+  - columbus
+  - margate
+  - leominster
+  - warwick
+  - bakersfield
+  - miami
+  - lake charles
+  - richland
+  - hickory
+  - rapid city
+  - bell gardens
+  - commerce city
+  - springfield
+  - fort collins
+  - san leandro
+  - vista
+  - yonkers
+  - cincinnati
+  - hagerstown
+  - sanford
+  - union city
+  - toledo
+  - sierra vista
+  - newport news
+  - hammond
+  - buffalo grove
+  - sugar land
+  - huntsville
+  - lodi
+  - edmonds
+  - duncanville
+  - rocky mount
+  - pontiac
+  - national city
+  - hayward
+  - niagara falls
+  - sparks
+  - hanford
+  - cypress
+  - decatur
+  - woonsocket
+  - mobile
+  - vallejo
+  - arcadia
+  - collierville
+  - jefferson city
+  - longview
+  - chandler
+  - arvada
+  - alhambra
+  - kokomo
+  - oakland park
+  - indianapolis
+  - boynton beach
+  - apache junction
+  - mount prospect
+  - cranston
+  - lafayette
+  - olathe
+  - johns creek
+  - greensboro
+  - kalamazoo
+  - tigard
+  - jacksonville
+  - citrus heights
+  - tuscaloosa
+  - ankeny
+  - hawthorne
+  - hoover
+  - delray beach
+  - wellington
+  - bullhead city
+  - weston
+  - troy
+  - new rochelle
+  - stockton
+  - royal oak
+  - titusville
+  - laguna niguel
+  - spokane valley
+  - costa mesa
+  - grand prairie
+  - portsmouth
+  - lacey
+  - apex
+  - sioux city
+  - encinitas
+  - spanish fork
+  - huntington park
+  - eden prairie
+  - peoria
+  - tempe
+  - wilmington
+  - taylorsville
+  - westland
+  - mesquite
+  - burlington
+  - garland
+  - richmond
+  - bismarck
+  - carson city
+  - muskogee
+  - augusta-richmond county
+  - fayetteville
+  - albany
+  - sayreville
+  - newark
+  - diamond bar
+  - decatur
+  - chattanooga
+  - jeffersonville
+  - bartlett
+  - baldwin park
+  - miami beach
+  - jackson
+  - port arthur
+  - san luis obispo
+  - burleson
+  - goose creek
+  - little rock
+  - santa ana
+  - white plains
+  - idaho falls
+  - bellevue
+  - roseville
+  - perth amboy
+  - peabody
+  - grand island
+  - columbia
+  - racine
+  - carmel
+  - portage
+  - middletown
+  - woodland
+  - revere
+  - euless
+  - arlington heights
+  - hemet
+  - high point
+  - newark
+  - midwest city
+  - san marcos
+  - port orange
+  - lakewood
+  - westerville
+  - rockford
+  - el cajon
+  - st petersburg
+  - downers grove
+  - milford
+  - albany
+  - las vegas
+  - pasadena
+  - port st lucie
+  - cedar rapids
+  - ormond beach
+  - quincy
+  - st joseph
+  - redondo beach
+  - houston
+  - temecula
+  - ann arbor
+  - beaumont
+  - east lansing
+  - santee
+  - tamarac
+  - bellevue
+  - pembroke pines
+  - springdale
+  - oxnard
+  - odessa
+  - stillwater
+  - brockton
+  - bayonne
+  - paramount
+  - moline
+  - meridian
+  - cleveland
+  - jersey city
+  - st paul
+  - deltona
+  - freeport
+  - iowa city
+  - anaheim
+  - apple valley
+  - great falls
+  - west valley city
+  - hampton
+  - georgetown
+  - orem
+  - monrovia
+  - keller
+  - south san francisco
+  - plymouth
+  - south bend
+  - edmond
+  - des moines
+  - bonita springs
+  - draper
+  - whittier
+  - livonia
+  - milwaukee
+  - auburn
+  - sumter
+  - beverly
+  - renton
+  - centennial
+  - richmond
+  - anderson
+  - beaumont
+  - pflugerville
+  - hoboken
+  - lexington-fayette
+  - norwalk
+  - yuma
+  - highland
+  - carol stream
+  - joliet
+  - rock hill
+  - rancho cordova
+  - dearborn heights
+  - honolulu
+  - victoria
+  - attleboro
+  - wylie
+  - carrollton
+  - plainfield
+  - hoffman estates
+  - methuen
+  - north port
+  - rockville
+  - burbank
+  - fullerton
+  - oshkosh
+  - huntsville
+  - farmington hills
+  - pico rivera
+  - cerritos
+  - la puente
+  - grand junction
+  - enid
+  - san jose
+  - round rock
+  - maple grove
+  - norman
+  - homestead
+  - friendswood
+  - irvine
+  - pocatello
+  - pacifica
+  - sheboygan
+  - bossier city
+  - cedar park
+  - sandy springs
+  - champaign
+  - clifton
+  - moore
+  - blue springs
+  - lancaster
+  - bryan
+  - hurst
+  - cape coral
+  - cupertino
+  - pittsfield
+  - gilroy
+  - manchester
+  - virginia beach
+  - salina
+  - somerville
+  - largo
+  - fresno
+  - phenix city
+  - berwyn
+  - palm beach gardens
+  - pawtucket
+  - san gabriel
+  - winston-salem
+  - alpharetta
+  - o'fallon
+  - redwood city
+  - union city
+  - hallandale beach
+  - mankato
+  - [new york, new york city, nyc]
+  - simi valley
+  - west covina
+  - castle rock
+  - valdosta
+  - fort worth
+  - carson
+  - evansville
+  - santa maria
+  - brentwood
+  - la mesa
+  - westminster
+  - reading
+  - turlock
+  - greeley
+  - tyler
+  - winter garden
+  - waco
+  - martinez
+  - thousand oaks
+  - azusa
+  - bridgeport
+  - st louis park
+  - chesterfield
+  - greenacres
+  - pasco
+  - torrance
+  - madison
+  - janesville
+  - waukegan
+  - bowling green
+  - arlington
+  - lewisville
+  - farmington
+  - oakley
+  - palo alto
+  - springfield
+  - new bedford
+  - redmond
+  - brentwood
+  - davis
+  - la mirada
+  - smyrna
+  - altoona
+  - dothan
+  - east orange
+  - tinley park
+  - biloxi
+  - urbana
+  - garden grove
+  - lynwood
+  - northglenn
+  - canton
+  - brookhaven
+  - baton rouge
+  - bristol
+  - independence
+  - lansing
+  - orland park
+  - vineland
+  - green bay
+  - evanston
+  - ocoee
+  - [los angeles, la]
+  - federal way
+  - west jordan
+  - yucaipa
+  - pittsburgh
+  - downey
+  - cicero
+  - south gate
+  - panama city
+  - joplin
+  - league city
+  - salt lake city
+  - fort pierce
+  - phoenix
+  - corvallis
+  - cedar hill
+  - chicopee
+  - ocala
+  - roswell
+  - park ridge
+  - concord
+  - olympia
+  - huntington beach
+  - corpus christi
+  - haverhill
+  - hanover park
+  - cambridge
+  - glendale
+  - stanton
+  - summerville
+  - davenport
+  - boca raton
+  - new britain
+  - roseville
+  - cleveland heights
+  - gresham
+  - lauderhill
+  - hendersonville
+  - santa clara
+  - oceanside
+  - lake forest
+  - novi
+  - west new york
+  - everett
+  - linden
+  - asheville
+  - compton
+  - aliso viejo
+  - menifee
+  - loveland
+  - carpentersville
+  - providence
+  - hialeah
+  - san ramon
+  - ontario
+  - kirkland
+  - st george
+  - hilton head island
+  - glendale
+  - meriden
+  - gardena
+  - westfield
+  - elgin
+  - plano
+  - longmont
+  - coppell
+  - lakewood
+  - jonesboro
+  - college station
+  - dearborn
+  - utica
+  - monroe
+  - baltimore
+  - springfield
+  - pine bluff
+  - plainfield
+  - lynn
+  - woodbury
+  - gainesville
+  - west sacramento
+  - sammamish
+  - aventura
+  - fayetteville
+  - san rafael
+  - conway
+  - tacoma
+  - middletown
+  - burlington
+  - twin falls
+  - sherman
+  - maplewood
+  - medford
+  - murfreesboro
+  - yuba city
+  - shelton
+  - cedar falls
+  - germantown
+  - scranton
+  - auburn
+  - manassas
+  - vacaville
+  - santa monica
+  - suffolk
+  - rochester hills
+  - la quinta
+  - charleston
+  - delano
+  - st cloud
+  - charleston
+  - kannapolis
+  - corona
+  - rocklin
+  - lee's summit
+  - palm coast
+  - sandy
+  - bentonville
+  - santa clarita
+  - altamonte springs
+  - new braunfels
+  - memphis
+  - irving
+  - alexandria
+  - hesperia
+  - holyoke
+  - dunwoody
+  - skokie
+  - kearny
+  - bethlehem
+  - lynchburg
+  - bowie
+  - danbury
+  - charlottesville
+  - coral gables
+  - coeur d'alene
+  - el monte
+  - crystal lake
+  - danville
+  - goodyear
+  - paterson
+  - salem
+  - kissimmee
+  - saginaw
+  - brownsville
+  - flower mound
+  - grapevine
+  - edina
+  - detroit
+  - fairfield
+  - mansfield
+  - rochester
+  - birmingham
+  - austin
+  - santa barbara
+  - addison
+  - rio rancho
+  - normal
+  - romeoville
+
+  - brighton heights
+  - summer hill
+  - perry north
+  - perry south
+  - marshall-shadeland
+  - northview heights
+  - spring hill-city view
+  - fineview
+  - spring garden
+  - troy hill
+  - chateau
+  - manchester
+  - california kirkbride
+  - central north side
+  - allegheny west
+  - allegheny center
+  - east allegheny
+  - north shore
+  - central business district
+  - strip district
+  - polish hill
+  - upper hill
+  - middle hill
+  - bedford dwellings
+  - terrace village
+  - bluff
+  - crawford-roberts
+  - lower lawrenceville
+  - central lawrenceville
+  - upper lawrenceville
+  - stanton heights
+  - garfield
+  - bloomfield
+  - friendship
+  - north oakland
+  - west oakland
+  - central oakland
+  - south oakland
+  - shadyside
+  - squirrel hill north
+  - squirrel hill south
+  - greenfield
+  - hazelwood
+  - glen hazel
+  - morningside
+  - highland park
+  - east liberty
+  - larimer
+  - lincoln-lemington-belmar
+  - homewood north
+  - homewood south
+  - homewood west
+  - east hills
+  - point breeze north
+  - point breeze
+  - regent square
+  - swisshelm park
+  - esplen
+  - sheraden
+  - windgap
+  - chartiers city
+  - fairywood
+  - crafton heights
+  - elliott
+  - west end
+  - west wood
+  - ridgemont
+  - east carnegie
+  - oakwood
+  - south shore
+  - southside flats
+  - duquesne heights
+  - mount washington
+  - brookline
+  - beechview
+  - banksville
+  - beltzhoover
+  - bon air
+  - carrick
+  - overbrook
+  - knoxville
+  - allentown
+  - south side slopes
+  - arlington
+  - st clair
+  - hays
+  - new homestead
+  - lincoln place
+  - arlington heights
+  - mount oliver
+  # list of top 600 world cities
+  - shanghai
+  - beijing
+  - karachi
+  - istanbul
+  - dhaka
+  - tokyo
+  - moscow
+  - manila
+  - tianjin
+  - ["mumbai", "bombay"]
+  - sao paulo
+  - shenzhen
+  - guangzhou
+  - delhi
+  - wuhan
+  - lahore
+  - seoul
+  - chengdu
+  - kinshasa
+  - lima
+  - jakarta
+  - cairo
+  - mexico city
+  - tehran
+  - baghdad
+  - xian
+  - london
+  - nanjing
+  - bangalore
+  - ho chi minh city
+  - bangkok
+  - chongquin
+  - bogota
+  - lagos
+  - riyadh
+  - hong kong
+  - chennai
+  - hangzhou
+  - hyderabad
+  - rio de janeiro
+  - zhengzhou
+  - shenyang
+  - qingdao
+  - santiago
+  - dalian
+  - singapore
+  - ahmadabad
+  - suzhou
+  - st petersburg
+  - harbin
+  - ankara
+  - khartoum
+  - yangon
+  - casablanca
+  - sydney
+  - jinan
+  - melbourne
+  - changsha
+  - kolkata
+  - fuzhou
+  - surat
+  - abidjan
+  - dar es salaam
+  - shiziahuang
+  - jeddah
+  - faisalabad
+  - nanning
+  - alexandria
+  - amman
+  - kunming
+  - changchun
+  - yokohama
+  - kabul
+  - berlin
+  - giza
+  - urumqi
+  - wuxi
+  - busan
+  - guayaquil
+  - hanoi
+  - hyderabad
+  - addis ababa
+  - algiers
+  - kano
+  - mashhad
+  - hefei
+  - changzhou
+  - taiyuan
+  - rawalpindi
+  - tangshan
+  - madrid
+  - nairobi
+  - zibo
+  - pune
+  - ibadan
+  - jaipur
+  - guiyang
+  - incheon
+  - brasilia
+  - kanpur
+  - salvador
+  - buenos aires
+  - kiev
+  - rome
+  - surabaya
+  - izmir
+  - lucknow
+  - basrah
+  - toronto
+  - gujranwala
+  - chicago
+  - taipei
+  - quito
+  - osaka
+  - xuzhou
+  - fortaleza
+  - chittagong
+  - pyongyang
+  - bandung
+  - kaohsiung
+  - yaounde
+  - daegu
+  - taichung
+  - belo horizonte
+  - puebla
+  - douala
+  - medellin
+  - nagpur
+  - cali
+  - omdurman
+  - nanchang
+  - brisbane
+  - bursa
+  - tashkent
+  - houston
+  - nagoya
+  - mogadishu
+  - isfahen
+  - paris
+  - accra
+  - managua
+  - kowloon
+  - lanzhou
+  - baku
+  - guatamala city
+  - luanda
+  - bucharest
+  - havana
+  - haiphong
+  - manaus
+  - baotou
+  - multan
+  - medan
+  - maracaibo
+  - barquisimeto
+  - perth
+  - jilin
+  - sapporo
+  - caracas
+  - minsk
+  - maiduguri
+  - curitiba
+  - vienna
+  - port harcourt
+  - luoyang
+  - aleppo
+  - hamburg
+  - datong
+  - tabriz
+  - kuala lumpur
+  - budapest
+  - warsaw
+  - bhopal
+  - lusaka
+  - adana
+  - pimpri chinchwad
+  - damascus
+  - palembang
+  - sanaa
+  - montreal
+  - almaty
+  - brazzaville
+  - tijuana
+  - ecatepec
+  - patna
+  - mecca
+  - vadodara
+  - conakry
+  - santa cruz
+  - recife
+  - harare
+  - ludhiana
+  - irbil
+  - barcelona
+  - makassar
+  - cordoba
+  - agra
+  - leon
+  - philadelphia
+  - novosibirsk
+  - phoenix
+  - semarang
+  - fukuoka
+  - valencia
+  - kobe
+  - anshan
+  - porto alegre
+  - daejon
+  - phnom penh
+  - lubumbashi
+  - benin
+  - guadalajara
+  - gwangju
+  - nashik
+  - qiqihar
+  - kyoto
+  - shiraz
+  - munich
+  - goiania
+  - belem
+  - san antonio
+  - kawasaki
+  - kharkiv
+  - ekaterinburg
+  - foshan
+  - san diego
+  - rajkot
+  - milan
+  - adelaide
+  - guarulhos
+  - ciudad juarez
+  - montevideo
+  - meerut
+  - dallas
+  - kaduna
+  - copenhagen
+  - prague
+  - soweto
+  - sofia
+  - maputo
+  - nizhny novgorod
+  - kazan
+  - varanasi
+  - hiroshima
+  - indore
+  - rosario
+  - samara
+  - belgrade
+  - campinas
+  - ulsan
+  - zapopan
+  - chelyabinsk
+  - omsk
+  - barranquilla
+  - dakar
+  - jodphur
+  - amritsar
+  - monterrey
+  - tripoli
+  - tbilisi
+  - rostov on don
+  - ufa
+  - allahabad
+  - nezahualcoyotl
+  - birmingham
+  - shubra el kheima
+  - tunis
+  - yerevan
+  - ranchi
+  - haora
+  - sendai
+  - tegucigalpa
+  - freetown
+  - perm
+  - volgograd
+  - odessa
+  - mexicali
+  - seongnam
+  - port-au-prince
+  - peshawar
+  - dnipropetrovsk
+  - napoli
+  - santo domingo
+  - kitakyushu
+  - johannesburg
+  - handan
+  - stockholm
+  - donetsk
+  - la paz
+  - medina
+  - mosul
+  - khulna
+  - benghazi
+  - durban
+  - rabat
+  - capetown
+  - beirut
+  - dallas
+  - heze
+  - nizhniy novgorod
+  - san diego
+  - meerut
+  - la matanza
+  - datong
+  - beirut
+  - fengcheng
+  - ruian
+  - laiwu
+  - maputo
+  - phnom penh
+  - prague
+  - pingdingshan
+  - yuzhou
+  - shiraz
+  - cixi
+  - allahabad
+  - huainan
+  - anqiu
+  - fuqing
+  - maiduguri
+  - pikine guediawaye
+  - tegucigalpa
+  - tunis
+  - valencia
+  - amritsar
+  - qianjiang
+  - bazhong
+  - managua
+  - leqing
+  - saitama
+  - belgrade
+  - hiroshima
+  - dongtai
+  - ujung pandang
+  - aurangabad
+  - adana
+  - guangyuan
+  - qidong
+  - rosario
+  - samara
+  - zapopan
+  - nezahualcoyotl
+  - lubumbashi
+  - mosul
+  - leon
+  - omsk
+  - solapur
+  - brazzaville
+  - bijie
+  - haicheng
+  - madurai
+  - ulsan
+  - leshan
+  - jabalpur
+  - kazan
+  - makasar
+  - jimo
+  - jining
+  - lusaka
+  - ulaanbaatar
+  - yerevan
+  - donetsk
+  - peshawar
+  - wafangdian
+  - copenhagen
+  - mirat
+  - chelyabinsk
+  - guatemala city
+  - shouguang
+  - dubai
+  - suwon
+  - port-au-prince
+  - odessa
+  - goyang
+  - seongnam
+  - marrakech
+  - taishan
+  - rostov on don
+  - dhanbad
+  - taichung
+  - ezhou
+  - campinas
+  - faridabad
+  - jiangdu
+  - benin
+  - beiliu
+  - gongzhuling
+  - changshu
+  - qom
+  - dnipropetrovsk
+  - freetown
+  - sendai
+  - dakar
+  - ufa
+  - ["fuzhou", "jiangxi"]
+  - yichun
+  - birmingham
+  - mudanjiang
+  - volgograd
+  - perm
+  - fes
+  - haora
+  - haora
+  - jodhpur
+  - san jose
+  - torreon
+  - mexicali
+  - subra al haymah
+  - baoding
+  - cologne
+  - hezhou
+  - calgary
+  - sao luis
+  - kitakyushu
+  - sao goncalo
+  - ghaziabad
+  - visakhapatnam
+  - wujiang
+  - naples
+  - chiba
+  - mandalay
+  - feicheng
+  - brussels
+  - vijayawada
+  - haimen
+  - kathmandu
+  - ciudad guayana
+  - safi
+  - coimbatore
+  - gaziantep
+  - weinan
+  - soweto
+  - maceio
+  - agadir
+  - krasnoyarsk
+  - srinagar
+  - detroit
+  - turin
+  - arequipa
+  - mbuji mayi
+  - songzi
+  - salé
+  - antananarivo
+  - laizhou
+  - chandigarh
+  - zaria
+  - abu dhabi
+  - cartagena
+  - teresina
+  - danyang
+  - sholapur
+  - hengyang
+  - honghu
+  - mombasa
+  - daye
+  - bogor
+  - lilongwe
+  - duque de caxias
+  - khulna
+  - marseille
+  - bucheon
+  - norfolk
+  - panama city
+  - voronezh
+  - nova iguacu
+  - sakai
+  - port elizabeth
+  - saratov
+  - benxi
+  - haikou
+  - stockholm
+  - hims
+  - kermanshah
+  - naucalpan
+  - hamhung
+  - hohhot
+  - padang
+  - hamamatsu
+  - ottawa
+  - ad-dammam
+  - dammam
+  - niigata
+  - liuzhou
+  - thiruvananthapuram
+  - valencia
+  - bengbu
+  - san francisco
+  - guwahati
+  - jacksonville
+  - santiago de queretaro
+  - zagreb
+  - astana
+  - kolwezi
+  - hubli
+  - daqing
+  - nanyang
+  - mysore
+  - indianapolis
+  - natal
+  - chisinau
+  - toluca
+  - lodz
+  - sao bernardo do campo
+  - zaporizhzhya
+  - abuja
+  - leeds
+  - masqat matrah
+  - tainan
+  - bishkek
+  - jerusalem
+  - amsterdam
+  - jixi
+  - tiruchchirappalli
+  - athens
+  - krakow
+  - cebu city
+  - ankang
+  - bandar lampung
+  - malang
+  - lviv
+  - merida
+  - edmonton
+  - ogbomosho
+  - riga
+  - acapulco
+  - shizuoka
+  - columbus
+  - jalandhar
+  - xining
+  - krasnodar
+  - la plata
+  - tangier
+  - sevilla
+  - joao pessoa
+  - okayama
+  - chihuahua
+  - fuxin
+  - gwalior
+  - jinzhou
+  - san luis potosi
+  - tlalnepantla de baz
+  - palermo
+  - oran
+  - austin
+  - aligarh
+  - dushanbe
+  - zhangjiakou
+  - amravati
+  - bulawayo
+  - durban
+  - memphis
+  - baltimore
+  - frankfurt
+  - aguascalientes
+  - bhubaneswar
+  - bangui
+  - colombo
+  - kingston
+  - jamshedpur
+  - rabat
+  - nashville
+  - boston
+  - sao jose dos campos
+  - cochabamba
+  - milwaukee
+  - stuttgart
+  - rotterdam
+  - dortmund
+  - kaifeng
+  - oslo
+  - denver
+  - helsinki
+  - glasgow
+  - essen
+  - vancouver
+  - seattle
+  - culiacan
+  - bhilai
+  - hengyang
+  - charlotte
+  - las vegas
+  - lisbon
+  - oklahoma city
+  - kitwe
+  - bremen
+  - ribeirao preto
+  - asuncion
+  - vilnius
+  - monrovia
+  - bucaramanga
+  - portland
+  - tucson
+  - atlanta
+  - sheffield
+  - surakarta

@@ -1,0 +1,29 @@
+# Random Social Intents
+---
+type: intent
+name: socialName
+utterances:
+  - what is your name?
+  - how should i call you?
+
+---
+type: intent
+name: socialWhat
+utterances:
+  - what are you?
+  - what are you made of?
+
+---
+type: intent
+name: socialMade
+utterances:
+  - who made you?
+  - who programmed you?
+
+---
+type: intent
+name: socialGratitude
+utterances:
+  - thank you
+  - thanks
+  - you're welcome
