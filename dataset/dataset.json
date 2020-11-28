@@ -108,7 +108,8 @@
         },
         {
           "synonyms": [
-            "emsworth limited"
+            "emsworth limited",
+            "19 l"
           ],
           "value": "19L"
         },
@@ -216,13 +217,15 @@
         },
         {
           "synonyms": [
-            "carrick limited"
+            "carrick limited",
+            "51 l"
           ],
           "value": "51L"
         },
         {
           "synonyms": [
-            "homeville limited"
+            "homeville limited",
+            "52 l"
           ],
           "value": "52L"
         },
@@ -234,7 +237,8 @@
         },
         {
           "synonyms": [
-            "homestead park limited"
+            "homestead park limited",
+            "53 l"
           ],
           "value": "53L"
         },
@@ -288,7 +292,8 @@
         },
         {
           "synonyms": [
-            "north braddock"
+            "north braddock",
+            "61 a"
           ],
           "value": "61A"
         },
@@ -296,7 +301,8 @@
           "synonyms": [
             "braddock-swissvale",
             "braddock",
-            "swissvale"
+            "swissvale",
+            "61 b"
           ],
           "value": "61B"
         },
@@ -304,13 +310,15 @@
           "synonyms": [
             "mckeesport-homestead",
             "mckeesport",
-            "homestead"
+            "homestead",
+            "61 c"
           ],
           "value": "61C"
         },
         {
           "synonyms": [
-            "murray"
+            "murray",
+            "61d"
           ],
           "value": "61D"
         },
@@ -353,25 +361,29 @@
         },
         {
           "synonyms": [
-            "negley"
+            "negley",
+            "71 a"
           ],
           "value": "71A"
         },
         {
           "synonyms": [
-            "highland park"
+            "highland park",
+            "71 b"
           ],
           "value": "71B"
         },
         {
           "synonyms": [
-            "point breeze"
+            "point breeze",
+            "71 c"
           ],
           "value": "71C"
         },
         {
           "synonyms": [
-            "hamilton"
+            "hamilton",
+            "71 d"
           ],
           "value": "71D"
         },
@@ -457,169 +469,197 @@
         },
         {
           "synonyms": [
-            "warrendale, cranberry"
+            "warrendale, cranberry",
+            "13 x"
           ],
           "value": "13K"
         },
         {
           "synonyms": [
-            "airport flyer"
+            "airport flyer",
+            "28 x"
           ],
           "value": "28X"
         },
         {
           "synonyms": [
-            "west busway"
+            "west busway",
+            "g 2"
           ],
           "value": "G2"
         },
         {
           "synonyms": [
-            "moon flyer"
+            "moon flyer",
+            "g 3"
           ],
           "value": "G3"
         },
         {
           "synonyms": [
-            "bridgeville flyer"
+            "bridgeville flyer",
+            "g 31"
           ],
           "value": "G31"
         },
         {
           "synonyms": [
-            "ross flyer"
+            "ross flyer",
+            "o 1"
           ],
           "value": "O1"
         },
         {
           "synonyms": [
-            "thompson run flyer"
+            "thompson run flyer",
+            "o 5"
           ],
           "value": "O5"
         },
         {
           "synonyms": [
-            "mcknight flyer"
+            "mcknight flyer",
+            "o 12"
           ],
           "value": "O12"
         },
         {
           "synonyms": [
-            "east busway all stops"
+            "east busway all stops",
+            "p 1"
           ],
           "value": "P1"
         },
         {
           "synonyms": [
-            "east busway-short"
+            "east busway-short",
+            "p 2"
           ],
           "value": "P2"
         },
         {
           "synonyms": [
-            "east busway-oakland"
+            "east busway-oakland",
+            "p 3"
           ],
           "value": "P3"
         },
         {
           "synonyms": [
-            "mckeesport flyer"
+            "mckeesport flyer",
+            "p 7"
           ],
           "value": "P7"
         },
         {
           "synonyms": [
-            "allegheny valley flyer"
+            "allegheny valley flyer",
+            "p 10"
           ],
           "value": "P10"
         },
         {
           "synonyms": [
-            "holiday park flyer"
+            "holiday park flyer",
+            "p 12"
           ],
           "value": "P12"
         },
         {
           "synonyms": [
-            "mount royal flyer"
+            "mount royal flyer",
+            "p 13"
           ],
           "value": "P13"
         },
         {
           "synonyms": [
-            "penn hills flyer"
+            "penn hills flyer",
+            "p 16"
           ],
           "value": "P16"
         },
         {
           "synonyms": [
-            "lincoln park flyer"
+            "lincoln park flyer",
+            "p 17"
           ],
           "value": "P17"
         },
         {
           "synonyms": [
-            "monroeville flyer"
+            "monroeville flyer",
+            "p 67"
           ],
           "value": "P67"
         },
         {
           "synonyms": [
-            "braddock hills flyer"
+            "braddock hills flyer",
+            "p 68"
           ],
           "value": "P68"
         },
         {
           "synonyms": [
-            "trafford flyer"
+            "trafford flyer",
+            "p 69"
           ],
           "value": "P69"
         },
         {
           "synonyms": [
-            "swissvale flyer"
+            "swissvale flyer",
+            "p 71"
           ],
           "value": "P71"
         },
         {
           "synonyms": [
-            "lincoln highway flyer"
+            "lincoln highway flyer",
+            "p 76"
           ],
           "value": "P76"
         },
         {
           "synonyms": [
-            "oakmont flyer"
+            "oakmont flyer",
+            "p 78"
           ],
           "value": "P78"
         },
         {
           "synonyms": [
-            "large flyer"
+            "large flyer",
+            "y 1"
           ],
           "value": "Y1"
         },
         {
           "synonyms": [
-            "baldwin manor flyer"
+            "baldwin manor flyer",
+            "y 45"
           ],
           "value": "Y45"
         },
         {
           "synonyms": [
-            "elizabeth flyer"
+            "elizabeth flyer",
+            "y 46"
           ],
           "value": "Y46"
         },
         {
           "synonyms": [
-            "curry flyer"
+            "curry flyer",
+            "y 47"
           ],
           "value": "Y47"
         },
         {
           "synonyms": [
-            "prospect park flyer"
+            "prospect park flyer",
+            "y 49"
           ],
           "value": "Y49"
         }
@@ -13939,6 +13979,30 @@
               "entity": "campusLocation",
               "slot_name": "campusLocation",
               "text": "Elevator"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "room "
+            },
+            {
+              "entity": "campusLocation",
+              "slot_name": "campusLocation",
+              "text": "6700"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "office "
+            },
+            {
+              "entity": "campusLocation",
+              "slot_name": "campusLocation",
+              "text": "6700"
             }
           ]
         }
