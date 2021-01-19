@@ -15,6 +15,8 @@ utterances:
   - "when does bus [bus:buses](61C) arrive"
   - "when does the next bus to [bus:buses](east hills) arrive"
   - "how long until the [bus:buses] comes?"
+  - "how long will it take for [bus:buses] to get here"
+  - "how long will it take for [bus:buses] to arrive"
 
   - "when does the [bound:bound](inbound) bus [bus:buses](61A) come?"
   - "when is the [bound:bound](outbound) [bus:buses](53L) coming?"
@@ -22,3 +24,5 @@ utterances:
   - "when does bus [bound:bound](outbound) [bus:buses](61C) arrive"
   - "when does the next bus to [bus:buses](east hills) arrive"
   - "how long until the [bound:bound](inbound) [bus:buses] comes?"
+  - "how long will it take for [bound:bound](inbound) [bus:buses] to get here?"
+  - "how long will it take for [bound:bound](inbound) [bus:buses] to arrive?"

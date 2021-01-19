@@ -13114,6 +13114,36 @@
         {
           "data": [
             {
+              "text": "how long will it take for "
+            },
+            {
+              "entity": "buses",
+              "slot_name": "bus",
+              "text": "freeport road"
+            },
+            {
+              "text": " to get here"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "how long will it take for "
+            },
+            {
+              "entity": "buses",
+              "slot_name": "bus",
+              "text": "2"
+            },
+            {
+              "text": " to arrive"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
               "text": "when does the "
             },
             {
@@ -13234,10 +13264,56 @@
             {
               "entity": "buses",
               "slot_name": "bus",
-              "text": "freeport road"
+              "text": "mount royal"
             },
             {
               "text": " comes?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "how long will it take for "
+            },
+            {
+              "entity": "bound",
+              "slot_name": "bound",
+              "text": "inbound"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "buses",
+              "slot_name": "bus",
+              "text": "4"
+            },
+            {
+              "text": " to get here?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "how long will it take for "
+            },
+            {
+              "entity": "bound",
+              "slot_name": "bound",
+              "text": "inbound"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "buses",
+              "slot_name": "bus",
+              "text": "troy hill"
+            },
+            {
+              "text": " to arrive?"
             }
           ]
         }
