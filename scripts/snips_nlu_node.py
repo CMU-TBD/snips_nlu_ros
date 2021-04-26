@@ -21,7 +21,7 @@ class SnipsNLUWrapper():
 
     def __init__(self):
         #get the path to the dataset
-        dataset_path = rospy.get_param('snips_nlu_ros/dataset') 
+        dataset_path = rospy.get_param('~dataset') 
         #try to reslove the path
         dataset_path = alloy.ros.resolve_res_path(dataset_path,'snips_nlu_ros','dataset')
         #load the dataset into memory
@@ -32,7 +32,6 @@ class SnipsNLUWrapper():
             raise RuntimeError()
         dataset = json.load(fs)
         #fit the dataset
-        load_resources(u"en")
         self._nlu_engine = SnipsNLUEngine()
         self._nlu_engine.fit(dataset)
 
@@ -41,10 +40,10 @@ class SnipsNLUWrapper():
         # self._nlu_server.start()
 
         # start the subscriber
-        self._nlu_subscriber = rospy.Subscriber("/utterance", Utterance, self._parse_callback)
+        self._nlu_subscriber = rospy.Subscriber("utterance", Utterance, self._parse_callback)
 
         # create the publisher
-        self._nlu_publisher = rospy.Publisher("/intent", Intent, queue_size=10)
+        self._nlu_publisher = rospy.Publisher("intent", Intent, queue_size=10)
         
 
         rospy.loginfo('Snips NLU Started')

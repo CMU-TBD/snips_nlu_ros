@@ -1,0 +1,8 @@
+<launch>
+  <arg name="dataset_path" default="dataset.json" />
+  <node name="nlu_node" pkg="snips_nlu_ros" type="snips_nlu_node.py" output="screen">
+    <param name='dataset' value="$(arg dataset_path)" type="string" />
+  </node>
+  <param name="test_module" value="$(find snips_nlu_ros)/tests/test_node.py"/>
+  <test test-name="test_lib" pkg="ros_pytest" type="ros_pytest_runner"/>
+</launch>
