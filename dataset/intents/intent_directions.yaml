@@ -11,3 +11,5 @@ utterances:
   - "can you help me find the [campusLocation:destination](office 4527)?"
   - "[campusLocation:destination](elevator)"
   - "get directions to [campusLocation:destination](abp)"
+  - "where is [campusLocation:destination](hunt library)?"
+    
