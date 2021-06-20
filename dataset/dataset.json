@@ -631,6 +631,10 @@
       "automatically_extensible": false,
       "data": [
         {
+          "synonyms": [],
+          "value": "conference room"
+        },
+        {
           "synonyms": [
             "elevators",
             "lift",
@@ -13381,12 +13385,12 @@
         {
           "data": [
             {
-              "text": "i want to go to "
+              "text": "i want to go to the "
             },
             {
               "entity": "destination",
               "slot_name": "campusLocation",
-              "text": "B524"
+              "text": "conference room"
             },
             {
               "text": "."

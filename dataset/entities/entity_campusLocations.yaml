@@ -5,6 +5,7 @@ name: campusLocation
 automatically_extensible: no
 values:
   # misc
+  - ["conference room"]
   - ["elevator", "elevators", "lift", "lifts"]
   # academic buildings
   - ["alumni house"]
